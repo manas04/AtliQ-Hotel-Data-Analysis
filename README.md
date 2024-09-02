@@ -14,7 +14,7 @@
   <li>fact_aggregated_bookings.csv</li>
 </ul>
 
-<h2><b>Data Analysis Processes </b></h2>
+<h2><b>Data Analysis Processes: </b></h2>
 <ol>
   <li>Data Import & Exploration</li>
   <li>Data Cleaning</li>
